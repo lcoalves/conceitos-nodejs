@@ -65,10 +65,9 @@ $> yarn test
 ```
 
 ## Test HTTP requests
-Donwload Insomnia
+Donwload Insomnia and import workspace from JSON
 * [Insomnia](https://insomnia.rest/download/) - So you can finally GET some REST 😴
-Import Workspace from JSON
-* [Insomnia Workspace](https://github.com/lcoalves/conceitos-nodejs/blob/master/.github/Insomnia_Bootcamp_Conceitos_Node.json)
+* [Insomnia Workspace](https://github.com/lcoalves/conceitos-nodejs/blob/master/.github/Insomnia_Bootcamp_Conceitos_Node.json) - Click to download
 
 
 ## Built With
