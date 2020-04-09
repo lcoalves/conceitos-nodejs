@@ -64,6 +64,13 @@ First run
 $> yarn test
 ```
 
+## Test HTTP requests
+Donwload Insomnia
+* [Insomnia](https://insomnia.rest/download/) - So you can finally GET some REST 😴
+Import Workspace from JSON
+* [Insomnia Workspace](https://github.com/lcoalves/conceitos-nodejs/blob/master/.github/Insomnia_Bootcamp_Conceitos_Node.json)
+
+
 ## Built With
 
 * [Express](https://expressjs.com/pt-br/starter/installing.html) - Fast, unopinionated, minimalist web framework for Node.js
