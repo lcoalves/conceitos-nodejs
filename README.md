@@ -67,6 +67,7 @@ $> yarn test
 ## Built With
 
 * [Express](https://expressjs.com/pt-br/starter/installing.html) - Fast, unopinionated, minimalist web framework for Node.js
+* [Jest](https://jestjs.io/docs/en/getting-started) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 ## Authors
 
